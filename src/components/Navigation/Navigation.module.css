@@ -1,0 +1,21 @@
+.navigation {
+  padding: 20px 30px;
+  box-shadow: 0 4px 6px -6px black;
+  display: flex;
+  gap: 20px;
+}
+
+.link {
+  color: blue;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.link:hover {
+  text-decoration: underline;
+}
+
+.active {
+  color: red;
+}

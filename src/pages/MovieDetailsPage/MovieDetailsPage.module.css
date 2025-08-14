@@ -1,0 +1,34 @@
+.container {
+  padding: 10px 30px;
+}
+
+.link {
+  text-decoration: none;
+  color: blue;
+  display: block;
+  margin-bottom: 10px;
+}
+
+.details {
+  display: flex;
+  gap: 20px;
+  margin-bottom: 20px;
+}
+
+.description {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.list {
+  list-style-type: disc;
+  list-style-position: outside;
+  padding-left: 20px;
+}
+
+.addinional_link {
+  text-decoration: none;
+  color: blue;
+  text-decoration: underline;
+}
